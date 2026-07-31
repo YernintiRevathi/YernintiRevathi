@@ -22,9 +22,6 @@ Two-stage ML classifier detecting 7 dark UX pattern types in real time, with wei
 Full-stack rental platform — customer/admin flows, Bcrypt auth, role-based dashboard, booking & inventory management.
 `Flask` `SQLAlchemy` `SQLite` `Bcrypt`
 
-**[Movie Recommendation System](https://github.com/YernintiRevathi/Movie_recommendation)**
-Content-based recommendation engine with a Flask web interface.
-`Python` `Flask` `Scikit-learn`
 
 ## Skills
 **Languages:** Python · Java · C++ · JavaScript · SQL
