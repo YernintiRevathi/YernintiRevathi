@@ -9,16 +9,16 @@ Engineer working across full-stack development and applied ML/computer vision.
 ## Projects
 
 ### ML / Applied AI
-**[Violence Detection & Alert System](https://github.com/YernintiRevathi/Violence-detection-and-alert-system)**
+**[Violence Detection & Alert System](https://github.com/YernintiRevathi/violence-detection-and-alert-system)**
 Real-time CNN (MobileNetV2) — 90.07% accuracy, 0.91 precision on 11,073 images. InsightFace facial ID + automated alerting (alarm/call/SMS/email). Published at CIGAI 2026.
 `Python` `TensorFlow` `MobileNetV2` `InsightFace`
 
-**[Insite – Dark UX Pattern Detector](https://github.com/YernintiRevathi/Detecting_deceptive_subscriptions_and_dark_UX)** 🏆 Hackathon Winner
+**[Insite – Dark UX Pattern Detector](https://github.com/YernintiRevathi/insite-dark-ux-detector)** 🏆 Hackathon Winner
 Two-stage ML classifier detecting 7 dark UX pattern types in real time, with weighted transparency scoring served via REST API. Chrome extension frontend.
 `Python` `Scikit-learn` `Flask` `Chrome Extension`
 
 ### Full-Stack / SDE
-**[RentNGo – Vehicle Rental Platform](https://github.com/YernintiRevathi/RentNGo_vehicle_rental)**
+**[RentNGo – Vehicle Rental Platform](https://github.com/YernintiRevathi/rentngo-vehicle-rental)**
 Full-stack rental platform — customer/admin flows, Bcrypt auth, role-based dashboard, booking & inventory management.
 `Flask` `SQLAlchemy` `SQLite` `Bcrypt`
 
