@@ -5,8 +5,9 @@ Engineer working across full-stack development and applied ML/computer vision.
 - 🧠 Built a real-time violence detection CNN (90.07% accuracy) — presented at CIGAI 2026 (Springer)
 - 🏆 1st place, Sankalp Hackathon (18 teams) — ML-powered dark UX pattern detector
 - 📊 700+ DSA problems solved, 600+ day LeetCode streak
-  
+
 📍 Open to SDE / ML roles
+
 ## Projects
 
 **[Violence Detection & Alert System](https://github.com/YernintiRevathi/violence-detection-and-alert-system)**
@@ -21,8 +22,8 @@ Two-stage ML classifier detecting 7 dark UX pattern types in real time, with wei
 Full-stack rental platform — customer/admin flows, Bcrypt auth, role-based dashboard, booking & inventory management.
 `Flask` `SQLAlchemy` `SQLite` `Bcrypt`
 
-
 ## Skills
+
 **Languages:** Python · Java · C++ · JavaScript · SQL
 
 **ML/AI:** Scikit-learn · TensorFlow · Pandas · NumPy · CNNs
@@ -32,5 +33,6 @@ Full-stack rental platform — customer/admin flows, Bcrypt auth, role-based das
 **Databases:** MySQL · MongoDB · SQLite
 
 ## Connect
-📧 revathiyerninti@gmail.com (GitHub/LeetCode) · reeshmayerninti@gmail.com (primary)
-| [LinkedIn](https://www.linkedin.com/in/revathi-yerninti-a62484259/)
+
+📧 reeshmayerninti@gmail.com (primary) · revathiyerninti@gmail.com (GitHub/LeetCode)
+📎 [LinkedIn](https://www.linkedin.com/in/revathi-yerninti-a62484259/)
