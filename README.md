@@ -32,11 +32,11 @@ Full-stack rental platform — customer/admin flows, Bcrypt auth, role-based das
 
 **ML/AI:** Scikit-learn · TensorFlow · Pandas · NumPy · CNNs
 
-**Web:** Node.js · Express.js
+**Web:** Node.js · Express.js · React.js
 
 **Databases:** MySQL · MongoDB · SQLite
 
 ## Connect
 
 📧 reeshmayerninti@gmail.com (primary) · revathiyerninti@gmail.com (GitHub/LeetCode)
-📎 [LinkedIn](https://www.linkedin.com/in/revathi-yerninti-a62484259/)
+📎 [LinkedIn](https://www.linkedin.com/in/yerninti-revathi/)
