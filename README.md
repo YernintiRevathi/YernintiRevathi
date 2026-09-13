@@ -30,9 +30,9 @@ Full-stack rental platform — customer/admin flows, Bcrypt auth, role-based das
 
 **Languages:** Python · Java · C++ · JavaScript · SQL
 
-**ML/AI:** Scikit-learn · TensorFlow · Pandas · NumPy · CNNs
+**ML/CV:** Scikit-learn · TensorFlow · OpenCV · CNNs
 
-**Web:** Node.js · Express.js · React.js
+**Web:** HTML · CSS · Node.js · Express.js · React.js
 
 **Databases:** MySQL · MongoDB · SQLite
 
